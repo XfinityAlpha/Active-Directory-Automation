@@ -4,11 +4,11 @@
 
 This project offers automation scripts to streamline user management within an Active Directory environment on a Windows Server. The 2 main scripts incude :
 
-**AD User Creation Automation (Server-side):**
+**1 - AD User Creation Automation (Server-side):**
 
 Automates the addition of users to the Active Directory environment on a Windows Server. Simplifies user creation and management processes.
 
-**Automated User Enrollment (Client-side):**
+**2 - Automated User Enrollment (Client-side):**
 
 Streamlines the integration of local machines as users within the Active Directory environment on a Windows Server, enhancing user enrollment efficiency.
 
