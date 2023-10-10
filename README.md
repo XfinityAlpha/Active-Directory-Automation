@@ -2,7 +2,9 @@
 
 
 
-This project offers automation scripts to streamline user management within an Active Directory environment on a Windows Server. The 2 Powershell scripts include :
+This project offers automation scripts to streamline user management within an Active Directory environment on a Windows Server. 
+
+The 2 Powershell scripts include :
 
 **1 - AD User Creation Automation (Server-side):**
 
